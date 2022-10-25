@@ -20,3 +20,7 @@ Data fields
     Severity - (Target) An indicator representing the severity of the car crash and possible impacts on the traffic. Values can range from 1 to 4, the highest value translates a highest impact.
 
 Severity is the target variable for that exercise. The target variable is the one we want to predict thanks to the predictive system module already present that you will build during that Programming Challenge.
+
+
+resource:
+https://www.kaggle.com/competitions/car-crashes-severity-prediction/overview/description
